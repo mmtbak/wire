@@ -1,4 +1,4 @@
-module github.com/mateemu/wire
+module github.com/goodaye/wire
 
 go 1.14
 
