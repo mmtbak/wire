@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/mateemu/wire"
+	"github.com/goodaye/wire"
 )
 
 type S1 struct {
