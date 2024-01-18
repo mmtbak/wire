@@ -1,4 +1,4 @@
-module github.com/goodaye/wire
+module github.com/mmtbak/wire
 
 go 1.14
 
